@@ -41,6 +41,10 @@
 &nbsp;   
 **SITVC-Injection at 8 MPa**    
 ![results](./img/case_08MPa_mach_s.png)     
+&nbsp;   
+&nbsp;   
+**SITVC-Injection at 6 MPa**    
+![results](./img/case_06MPa_mach_s.png)     
 
 
 ## Setup
@@ -52,7 +56,7 @@ Tested the code on Linux based setup.
 
 &nbsp;    
 SU2 appears in two flavours. Single core/cpu version or MPI version for parallel computations.    
-If you have multi-core processor, then MPI version speeds up the computation. You need to install MCICH   
+If you have multi-core processor, then MPI version speeds up the computation. You need to install MPICH   
 
 
 ## How to run   
