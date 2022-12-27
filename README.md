@@ -1,6 +1,8 @@
 # CFD Flow Simulation for PSLV Nozzle with SITVC (RANS-SST)
 > Flow simulation of PSLV-P1 Nozzle with secondary injection thrust vector control (SITVC).  
    
+&nbsp;    
+#### Update (27-DEC-22) : Config file updated for SU2 (Version-7.4.0)  
 
 ## Table of contents
 * [General info](#general-info)
@@ -50,7 +52,7 @@
 Tested the code on Linux based setup.    
 >   
 1. Gmsh (Version-4.7.1) with python module - Mesh generation
-2. SU2 (Version-7.1.0) - CFD solver 
+2. SU2 (Version-7.4.0) - CFD solver 
 3. Paraview (Version-5.7.0) - flow visualization  
 
 &nbsp;    
@@ -85,7 +87,7 @@ If you have multi-core processor, then MPI version speeds up the computation. Yo
 [ https://arc.aiaa.org/doi/pdf/10.2514/6.1996-453 ]  
 
 ## Updates     
-*  
+*  [27-DEC-22] Config file updated for SU2 (Version-7.4.0)
 
 ## To-do list  
 *
