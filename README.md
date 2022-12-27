@@ -27,6 +27,7 @@
 1.  Python script 'trans_nozzle_structured.py' generates structured mesh with the SITVC Port on top side of the cone in .su2 format directly.   
 2.  ![results](./img/mesh_pslv_p1_sitvc_s.png)   
 3. Generated files are bell_nozzle_cgrid.su2 and  conical_nozzle_cgrid.su2.
+4. Included in the configuration file, the following test case scenarios.  Commented one case. 
 
 ## Screenshots
 
